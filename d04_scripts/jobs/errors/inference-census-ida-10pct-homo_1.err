@@ -1,0 +1,8 @@
+/var/spool/slurmd/job1341491/slurm_script: 3: [: -gt: unexpected operator
+/var/spool/slurmd/job1341491/slurm_script: 6: [: -gt: unexpected operator
+/var/spool/slurmd/job1341491/slurm_script: 17: source: not found
+/var/spool/slurmd/job1341491/slurm_script: 18: source: not found
+/share/pierson/conda_virtualenvs/networks_underreporting_env/lib/python3.10/site-packages/libpysal/weights/weights.py:172: UserWarning: The weights matrix is not fully connected: 
+ There are 10 disconnected components.
+ There are 5 islands with ids: 70, 150, 869, 1120, 1530.
+  warnings.warn(message)
