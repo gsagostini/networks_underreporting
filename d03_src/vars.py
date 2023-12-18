@@ -4,7 +4,7 @@
 #   sure to update the paths below with tha path to the repository in your
 #   machine.
 
-_path_to_repo = '/share/garg/gs665/networks_underreporting_public/'
+_path_to_repo = '/PATH/TO/REPO/networks_underreporting/'
 
 #######################################################################################################################
 # PATHS:

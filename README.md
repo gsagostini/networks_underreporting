@@ -4,7 +4,7 @@ Code to accompany AAAI 24 paper. Written by Gabriel S. Agostini, Nikhil Garg, an
 
 ## Installation
 
-A `.yml` file is provided with all required packages and their versions.
+A `.yml` file is provided with all required packages and their versions. Please update the `d03_src.vars.py` file with your path to the repository `_path_to_repo` to ensure all functions work correctly.
 
 ## Repository Setup
 
