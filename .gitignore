@@ -4,7 +4,7 @@ d03_src/_deprecated*
 d04_scripts/_deprecated*
 
 #Slurm Jobs
-d04_src/jobs/*
+d04_scripts/jobs/*
 
 
 # Byte-compiled / optimized / DLL files
